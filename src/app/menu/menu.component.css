@@ -1,0 +1,21 @@
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#section-login {
+  height: 100%;
+  width: 400px;
+  border-radius: 10px;
+  border: 2px solid black;
+  padding: 10px 20px;
+  margin-top: 50px;
+}
+.nav-item {
+  color: white;
+  font-weight: bold;
+  font-size: large;
+}
+.navbar {
+  background-color: rgb(38, 66, 158);
+}
